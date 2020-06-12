@@ -1,0 +1,8 @@
+{
+  "name": "proyecto-estadia",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
